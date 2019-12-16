@@ -1,5 +1,5 @@
 <h1 align="center">
-  <a align="center" href="http://petsy-cdm.herokuapp.com">
+  <a align="center" href="https://docker-petsy.herokuapp.com">
     <img
       align="center"
       src="https://petsy-cdm-seeds.s3-us-west-1.amazonaws.com/petsy_logo.png"
